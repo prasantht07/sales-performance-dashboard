@@ -34,8 +34,7 @@ Users can dynamically filter the dashboard using available fields such as:
 * Product
 * Category
 * Location
-* Salesperson
-
+  
 This allows users to explore the data, compare performance, and analyze sales trends based on different selections.
 
 ## Tools & Techniques
