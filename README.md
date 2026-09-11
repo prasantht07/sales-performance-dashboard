@@ -24,6 +24,8 @@ The project analyzes sales data to identify patterns in revenue, profit, units s
 
 ## Interactive Dashboard
 
+![Sales Performance Dashboard](Sales_Dashboard_Preview.png)
+
 The dashboard provides a consolidated and interactive view of sales performance through KPI cards, charts, slicers, and filters.
 
 Users can dynamically filter the dashboard using available fields such as:
